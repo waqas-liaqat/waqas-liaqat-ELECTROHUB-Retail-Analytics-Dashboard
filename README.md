@@ -1,7 +1,3 @@
-Based on the content of your dashboard from the **ELECTROHUB Retail Analytics Dashboard**, here's a detailed README for your GitHub repository:
-
----
-
 # ELECTROHUB Retail Analytics Dashboard
 
 ## Overview
