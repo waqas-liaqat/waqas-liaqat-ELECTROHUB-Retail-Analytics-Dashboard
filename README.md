@@ -61,9 +61,6 @@ To view the project:
 - Expanding the dashboard to include forecasting features for future sales based on historical trends.
 - Implementing store-level performance analytics for a more granular view of sales operations.
 
-## Presentation
-A **PowerPoint presentation** is also included in the repository, summarizing the project, key findings, and future recommendations.
-
 ## Contact
 Feel free to reach out if you have any questions or suggestions:
 - **Email**: waqasliaqat630@gmail.com
