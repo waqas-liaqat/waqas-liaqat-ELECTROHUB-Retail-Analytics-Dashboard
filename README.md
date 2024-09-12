@@ -64,4 +64,4 @@ To view the project:
 ## Contact
 Feel free to reach out if you have any questions or suggestions:
 - **Email**: waqasliaqat630@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-waqas-liaqat/)
+- **LinkedIn**: ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-waqas-liaqat/)
